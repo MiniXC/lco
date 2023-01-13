@@ -22,7 +22,8 @@ This works across threads and processes.
 
 ## Installation
 
-You can use ``pip install lco`` as well.
+You can use ``pip install lco``.
+
 But this is such a small package, it might be best to just copy the code below into your own ``lco.py``.
 <details>
   <summary>Show Code</summary>
