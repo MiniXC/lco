@@ -65,7 +65,7 @@ But this is such a small package, it might be best to just copy the code below i
 
 ## But why?
 
-This is mostly useful for research code, MVPs or Prototypes, where on doesn't want to pass configuration variables from object to object or across scopes. I wouldn't recommend this for production code as you're essentially using global variables.
+This is mostly useful for research code, MVPs or Prototypes, where one doesn't want to pass configuration variables from object to object or across scopes. I wouldn't recommend this for production code as you're essentially using global variables.
 
 ## What filetypes are supported?
 
